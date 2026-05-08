@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Naga Sai 👋
 
-<!--
-**Iam-Naga-Sai/Iam-Naga-Sai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer · Full-Stack Developer · Cloud Enthusiast
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagasain2710/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagasain2710@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I'm a Software Engineer with **4+ years** of experience building scalable full-stack applications across **insurance, banking, and healthcare**. I love turning messy problems into clean systems and shaving milliseconds off response times.
+
+- 🔭 Currently building at **Indiana Farm Bureau Insurance** as a Java Full Stack Developer
+- 🌱 Exploring **LLMs, AI agents, and distributed systems**
+- 🎓 Master's in Information Technology, **University of Cincinnati**
+- 📍 Cincinnati, OH
+
+---
+
+## 📫 Let's Connect
+
+I'm always happy to chat about software engineering, system design, or interesting side projects. Reach out via [email](mailto:nagasain2710@gmail.com) or [LinkedIn](https://www.linkedin.com/in/nagasain2710/).
+
+> *"Clean code, efficient systems, and thoughtful design."*
