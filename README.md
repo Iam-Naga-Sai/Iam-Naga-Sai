@@ -3,7 +3,6 @@
 ### Software Engineer · Full-Stack Developer · Cloud Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagasain2710/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagasain2710@gmail.com)
 
 ---
 
@@ -20,6 +19,6 @@ I'm a Software Engineer with **4+ years** of experience building scalable full-s
 
 ## 📫 Let's Connect
 
-I'm always happy to chat about software engineering, system design, or interesting side projects. Reach out via [email](mailto:nagasain2710@gmail.com) or [LinkedIn](https://www.linkedin.com/in/nagasain2710/).
+I'm always happy to chat about software engineering, system design, or interesting side projects. Reach out via nagasain2710@gmail.com or https://www.linkedin.com/in/nagasain2710/
 
 > *"Clean code, efficient systems, and thoughtful design."*
