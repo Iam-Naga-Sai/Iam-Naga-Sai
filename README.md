@@ -1,4 +1,4 @@
-# Hi, I'm Naga Sai 👋
+# Hi, I'm Nagasai Nadipally 👋
 
 ### Software Engineer · Full-Stack Developer · Cloud Enthusiast
 
